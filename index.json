@@ -1,0 +1,11 @@
+{
+  "org": "facebookresearch",
+  "repo": "mmf",
+  "versions": [
+    {
+      "commit": "72f898ec35af86567423c7a019dd1dc5175d1a5a",
+      "tag": "",
+      "parsed_at": "2026-11-06T08:06:06.762207+00:00"
+    }
+  ]
+}
