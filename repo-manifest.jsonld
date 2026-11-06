@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/facebookresearch/mmf/commit/72f898ec35af86567423c7a019dd1dc5175d1a5a",
       "git:hexsha": "72f898ec35af86567423c7a019dd1dc5175d1a5a",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/facebookresearch/mmf/commit/5ad666f417684f8f1280029ac46e19dc8b5ddb0a",
